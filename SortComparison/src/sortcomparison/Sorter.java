@@ -79,8 +79,6 @@ public interface Sorter {
 
 
 	/**
-	 * EXTRA CREDIT
-	 * 
 	 * Sorts the list in ascending order.
 	 * 
 	 * @param data
@@ -90,8 +88,6 @@ public interface Sorter {
 
 
 	/**
-	 * EXTRA CREDIT
-	 * 
 	 * Heapifies the given list.
 	 * 
 	 * @param data
